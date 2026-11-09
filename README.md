@@ -1,6 +1,5 @@
 # Data-Science-Seminars-and-Challenge
-## work-flow split
-
+### assignment
 - Exploratory Data Analysis
 - State of the art review
 - Banchmarking
@@ -14,5 +13,8 @@
 - Try to define a model that predict both outcomes at the same time.
 - Try to improve existing baselines
 
-
+## work-flow split
+- Exploratory Data Analysis: outlier detection, distribution, missing values,...
+- Find papers on ITSM analytics, ticket classification, SLA prediction, and time-to-resolution modeling
+- ....
   
